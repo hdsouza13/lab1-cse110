@@ -7,6 +7,7 @@ int main()
 }
 
 ```
+![Image](UCSDphoto.jpg)
 
 **Brazillian**
 
