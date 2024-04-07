@@ -11,15 +11,17 @@ int main()
 
 **Brazillian**
 
-_ _Computer Enginnering_ _
+***Computer Enginnering***
 
 **UCSD**
 
-_ _Age: 21_ _
+***Age: 21***
+
+~~Programmer~~ Software Engineering
 
 ## Skills
 
-Computer Scince Language:
+Computer Science Language:
 
 - C++
 - HTML
