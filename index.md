@@ -57,3 +57,5 @@ Languagues:
 
 [Click here](/file.md)
 
+If you have need any help use this link lol [Click here](https://chat.openai.com/?model=text-davinci-002-render-sha)
+
