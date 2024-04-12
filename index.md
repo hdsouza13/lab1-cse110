@@ -42,13 +42,13 @@ Languagues:
 
 ## Degree
 
-[x] School Degree
+-[x] School Degree
 
-[x] Associate in Scinence Degree
+-[x] Associate in Scinence Degree
 
-[ ] Bachelor Degree
+-[ ] Bachelor Degree
 
-[ ] Masters Degre 
+-[ ] Masters Degre 
 
 
 >“Debugging is like being a detective in a crime movie where you’re also the murderer.” — Filipe Fortes
